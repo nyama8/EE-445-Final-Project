@@ -1,4 +1,4 @@
-date,state,positive,negative,tests,
+date,state,positive,negative,tests,time
 20200412,AK,272,7766,8038,43
 20200412,AL,3525,18058,21583,43
 20200412,AR,1280,18442,19722,43
